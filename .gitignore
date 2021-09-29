@@ -1,0 +1,8 @@
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+.env
+.vscode
+todo.js
+package-lock.json
